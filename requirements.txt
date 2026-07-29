@@ -1,0 +1,7 @@
+pytest
+allure-pytest
+selenium
+faker
+requests
+ruff
+mypy
